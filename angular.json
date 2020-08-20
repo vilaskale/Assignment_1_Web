@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vivideas-solution"
+    }
+  },
+  "defaultProject": "vivideas-solution",
+  "cli": {
+    "analytics": "716c75cd-080b-4ca6-9cc5-adb3b6ce802c"
+  }
 }
